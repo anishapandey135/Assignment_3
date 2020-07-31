@@ -2,6 +2,6 @@
 
 ## Implementation:
 
-**I implemanted this problem using  A genetic algorithm-based clustering technique,in which clusters with similarities are made.**
+**I implemanted this problem using  A genetic algorithm-based clustering technique,in which clusters with similarities are made, also I've added 15 loops to make it efficient for complex inputs.**
 
 ### Compilation Instruction : g++ student.cpp
