@@ -1,0 +1,21 @@
+Input:
+10                                                                                                                              
+12 15 16 100 1000 990 89 30 8 1  
+
+Output:
+grp representative in generation 0 are 50.5   348.333  338      1  2  3  1  2  3  1  2  3  1  
+grp representative in generation 1 are 50.5   348.333  338      1  1  1  1  2  2  1  1  1  1                                                                    
+grp representative in generation 2 are 39.4167   607  338       1  1  1  1  2  2  1  1  1  1                                    
+grp representative in generation 3 are 33.875   995  -nan       1  1  1  3  2  2  3  3  1  1                                    
+grp representative in generation 4 are -nan   -nan  -nan        1  1  1  3  2  2  3  3  1  1                                   
+grp representative in generation 5 are -nan   -nan  -nan        1  1  1  3  2  2  3  3  1  1                                   
+grp representative in generation 6 are -nan   -nan  -nan        1  1  1  3  2  2  3  3  1  1                                     
+grp representative in generation 7 are -nan   -nan  -nan        1  1  1  3  2  2  3  3  1  1                                     
+grp representative in generation 8 are -nan   -nan  -nan        1  1  1  3  2  2  3  3  1  1                                     
+grp representative in generation 9 are -nan   -nan  -nan        1  1  1  3  2  2  3  3  1  1                                     
+grp representative in generation 10 are -nan   -nan  -nan       1  1  1  3  2  2  3  3  1  1                                     
+grp representative in generation 11 are -nan   -nan  -nan       1  1  1  3  2  2  3  3  1  1                                    
+grp representative in generation 12 are -nan   -nan  -nan       1  1  1  3  2  2  3  3  1  1                                     
+grp representative in generation 13 are -nan   -nan  -nan       1  1  1  3  2  2  3  3  1  1                                   
+grp representative in generation 14 are -nan   -nan  -nan       1  1  1  3  2  2  3  3  1  1                                     
+grp representative in generation 15 are -nan   -nan  -nan       1  1  1  3  2  2  3  3  1  1 
